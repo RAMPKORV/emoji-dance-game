@@ -1,0 +1,26 @@
+{
+  "name": "emoji-dance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kuk",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAMPKORV/emoji-dance-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RAMPKORV/emoji-dance-game/issues"
+  },
+  "homepage": "https://github.com/RAMPKORV/emoji-dance-game/#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "sass-module-importer": "^1.4.0"
+  }
+}
